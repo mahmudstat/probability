@@ -1,0 +1,9 @@
+book_filename: "prob"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
+output_dir: "docs"
+chapter_name: "Chapter "
+repo: https://github.com/mahmudstat/probability
+new_session: yes
