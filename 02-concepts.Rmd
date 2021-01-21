@@ -1,0 +1,60 @@
+# Important terms concepts{#concepts}
+
+## Terms 
+
+Trial
+: Define trial
+
+Experiment
+: Define
+
+Random experiment
+: An experiment which involves a probabilistic approach. 
+
+Sample space
+: The collection of possible outcomes. 
+
+Event
+: A subset of any size of the sample space. 
+
+
+
+# Definitions of Probability
+
+### Classical
+
+$P (A) = \frac{n(A)}{n(S)}$
+
+### Relative frequency
+
+$$\lim_{n(S) \to \infty} \frac{n(A)}{n(S)}$$
+
+### Axiomatic
+
+Three axioms
+
+Say, S is sample space and A is an event 
+
+- $0 \le P (A) \le 1$ <span style="color: red;">(NOT $P(A) \ge 0$)</span>
+- At least one of S will occur. P (S) = 1; Certain event. 
+- $P(A_1 U A_2 U ... U A_n)=P(A_1) + P(A_2) + ... + P(A_n)$ or  
+- $$P\left(\cup _{i=1}^{\infty }E_{i}\right)=\sum _{i=1}^{\infty }P(E_{i})$$
+
+### Permutaion vs Combination
+
+Suppose, we have three letters: A, B, and C. If we are told to take two of them and arrange them in as many ways as possible, we could write:
+
+AB
+BA
+AC
+CA
+BC
+CA
+
+We can arrange them in 6 different ways. Here, AB and BA are different arrangements. 
+
+Consider a row of a train with two seats. 
+
+There are 15 cricketers in BD preliminary team. We got to <span style="font-style:italic; color:blue;">select </span> 11. C or P? 
+
+
